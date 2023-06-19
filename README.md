@@ -160,7 +160,7 @@ x : int = 10
 ```
 **Pro tip:** Para dar valor a una variable, se utiliza el operador de *asignación*, un = (signo igual). 
 
-**Pro tip:** Para poner comentarios en el código de python se utiliza # (asterisco), todo lo que está comentado no será tenido en cuenta en el programa. Comentar es **FUNDAMENTAL** para entender el code. 
+**Pro tip:** Para poner comentarios en el código de python se utiliza # (Numeral), todo lo que está comentado no será tenido en cuenta en el programa. Comentar es **FUNDAMENTAL** para entender el code. 
 
 En Python no hay una distinción tan clara de la cantidad de espacio que usa un entero, en lenguajes como C se tienen `int8`, `uint16`, `long`, donde se especifican la cantidad de bits para almacenar la varible. Si se queire consultar la cantidad de bits y la representación binaria se puede usar.
 
